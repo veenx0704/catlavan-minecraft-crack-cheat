@@ -2,6 +2,14 @@
 
 Catlavan кряк, Catlavan crack — RU-клиент Minecraft под HolyWorld и ReallyWorld. Лоадер, Aura, AutoTotem, 1.16.5–1.21.4.
 
+## Постер с сайта MoggyDay
+
+[![Catlavan — poster, crack, cheat, скачать с moggydaymc-cheat.com](https://moggydaymc-cheat.com/assets/posters/catlavan.jpg)](https://moggydaymc-cheat.com/client.html?id=catlavan)
+
+Фото карточки на сайте: [https://moggydaymc-cheat.com/assets/posters/catlavan.jpg](https://moggydaymc-cheat.com/assets/posters/catlavan.jpg) · [https://moggydaymc-cheat.com/client.html?id=catlavan](https://moggydaymc-cheat.com/client.html?id=catlavan)
+
+В репозитории: `assets/poster.jpg` (тот же постер, что на сайте и в лаунchere).
+
 ## Скачать Catlavan — только с официального сайта
 
 **Скачать с сайта MoggyDay** (официально, без зеркал и «левых» crack-файлов):
@@ -16,14 +24,30 @@ Catlavan кряк, Catlavan crack — RU-клиент Minecraft под HolyWorld
 > **SEO:** запросы вроде «Catlavan crack», «Catlavan cheat», «Catlavan кряк», «скачать Catlavan minecraft» — качай **только** с **moggydaymc-cheat.com**, не с Telegram и не с file-hosting.
 
 
-## О клиенте
+## Кратко
 
 Catlavan кряк / Catlavan crack — RU-клиент под HolyWorld и ReallyWorld. Лоадер Java 17, 4 ГБ, 1.16.5–1.21.4. Функционал: Aura, AutoTotem, Speed, NoSlow, Velocity, ESP, GUI Move.
 
-- **Версии Minecraft:** 1.16.5–1.21.4
-- **Java:** 17
-- **Сервера:** HolyWorld, ReallyWorld
-- **Модули:** killaura autototem esp velocity speed noslow inventorymove
+| Параметр | Значение |
+| --- | --- |
+| Клиент | **Catlavan** |
+| Тип | FREE |
+| Направление | Бой · HolyWorld |
+| Minecraft | 1.16.5–1.21.4 |
+| Java | 17 |
+| RAM | 4 ГБ |
+| Античит | Grim, Matrix |
+| Сервера | HolyWorld, ReallyWorld |
+
+## Подробное описание
+
+Catlavan кряк — один из самых упоминаемых RU-клиентов под HolyWorld и ReallyWorld. У автора свой Telegram-канал с частыми обновлениями: режимы Velocity и NoSlow под Lony и Holy, Elytra Bypass, Auction Helper, Auto Sell, Region Viewer. Ветка 1.16.5 держит HolyWorld, 1.21.4 — ReallyWorld. FunTime-хелпер автор вырезал после перехода сервера на 1.21.4–1.21.11, так что для FunTime бери Delta или WexSide. Не Matrix-кф, а набор под Grim-стек серверов. Конфиг с другого клиента здесь не откроется.
+
+## Функционал и модули
+
+На MoggyDay Catlavan — HolyWorld и ReallyWorld: Aura с переработанными критами, AutoTotem и AutoSwap, Speed и NoSlow с режимами под Lony и Holy, Velocity под ReallyWorld, GUI Move, 3D ESP. Серверные хелперы: трапка, Auction Helper, Auto Sell, Region Viewer. Сохраняй catlavan.cfg отдельно, после апдейта сервера жди новую сборку клиента.
+
+**Модули:** killaura, autototem, esp, velocity, speed, noslow, inventorymove
 
 ## Ключевые слова (Google · Yandex · браузер)
 
